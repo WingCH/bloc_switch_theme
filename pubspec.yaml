@@ -37,6 +37,7 @@ dependencies:
   flex_color_scheme: ^4.2.0
   bloc: ^8.0.3
   flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
